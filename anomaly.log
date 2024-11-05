@@ -1,0 +1,172 @@
+2024-11-05 14:35:50,425 - INFO: Anomaly Detected : {'id': 1, 'data': [[-2.599]], 'current_time': '2024-11-05T09:05:50.373437', 'score': [-0.799]}
+2024-11-05 14:35:51,534 - INFO: Anomaly Detected : {'id': 3, 'data': [[-1.967]], 'current_time': '2024-11-05T09:05:51.482456', 'score': [-0.799]}
+2024-11-05 14:35:52,637 - INFO: Anomaly Detected : {'id': 5, 'data': [[2.913]], 'current_time': '2024-11-05T09:05:52.583022', 'score': [-0.72]}
+2024-11-05 14:35:54,526 - INFO: Anomaly Detected : {'id': 7, 'data': [[-2.081]], 'current_time': '2024-11-05T09:05:54.467801', 'score': [-0.799]}
+2024-11-05 14:35:55,089 - INFO: Anomaly Detected : {'id': 8, 'data': [[-1.945]], 'current_time': '2024-11-05T09:05:55.029333', 'score': [-0.799]}
+2024-11-05 14:35:55,652 - INFO: Anomaly Detected : {'id': 9, 'data': [[1.196]], 'current_time': '2024-11-05T09:05:55.591496', 'score': [-0.753]}
+2024-11-05 14:35:56,230 - INFO: Anomaly Detected : {'id': 10, 'data': [[1.046]], 'current_time': '2024-11-05T09:05:56.165245', 'score': [-0.799]}
+2024-11-05 14:35:56,807 - INFO: Anomaly Detected : {'id': 11, 'data': [[-0.067]], 'current_time': '2024-11-05T09:05:56.742433', 'score': [-0.799]}
+2024-11-05 14:35:58,276 - INFO: Anomaly Detected : {'id': 14, 'data': [[-1.501]], 'current_time': '2024-11-05T09:05:58.143894', 'score': [-0.799]}
+2024-11-05 14:35:58,859 - INFO: Anomaly Detected : {'id': 15, 'data': [[-2.042]], 'current_time': '2024-11-05T09:05:58.795479', 'score': [-0.799]}
+2024-11-05 14:36:00,538 - INFO: Anomaly Detected : {'id': 18, 'data': [[-1.821]], 'current_time': '2024-11-05T09:06:00.478181', 'score': [-0.799]}
+2024-11-05 14:36:01,685 - INFO: Anomaly Detected : {'id': 20, 'data': [[-1.964]], 'current_time': '2024-11-05T09:06:01.620750', 'score': [-0.799]}
+2024-11-05 14:36:02,260 - INFO: Anomaly Detected : {'id': 21, 'data': [[-1.823]], 'current_time': '2024-11-05T09:06:02.196495', 'score': [-0.799]}
+2024-11-05 14:36:11,929 - INFO: Anomaly Detected : {'id': 1, 'data': [[-2.237]], 'current_time': '2024-11-05T09:06:11.875526', 'score': [-0.799]}
+2024-11-05 14:36:13,581 - INFO: Anomaly Detected : {'id': 4, 'data': [[-1.689]], 'current_time': '2024-11-05T09:06:13.529835', 'score': [-0.799]}
+2024-11-05 14:36:14,149 - INFO: Anomaly Detected : {'id': 5, 'data': [[-2.335]], 'current_time': '2024-11-05T09:06:14.094432', 'score': [-0.799]}
+2024-11-05 14:36:15,276 - INFO: Anomaly Detected : {'id': 7, 'data': [[-1.895]], 'current_time': '2024-11-05T09:06:15.219058', 'score': [-0.799]}
+2024-11-05 14:36:16,412 - INFO: Anomaly Detected : {'id': 9, 'data': [[-1.792]], 'current_time': '2024-11-05T09:06:16.355797', 'score': [-0.799]}
+2024-11-05 14:36:17,540 - INFO: Anomaly Detected : {'id': 11, 'data': [[-2.44]], 'current_time': '2024-11-05T09:06:17.483038', 'score': [-0.799]}
+2024-11-05 14:36:18,119 - INFO: Anomaly Detected : {'id': 12, 'data': [[-2.096]], 'current_time': '2024-11-05T09:06:18.055596', 'score': [-0.799]}
+2024-11-05 14:36:18,721 - INFO: Anomaly Detected : {'id': 13, 'data': [[-1.988]], 'current_time': '2024-11-05T09:06:18.634803', 'score': [-0.799]}
+2024-11-05 14:36:19,299 - INFO: Anomaly Detected : {'id': 14, 'data': [[1.248]], 'current_time': '2024-11-05T09:06:19.226294', 'score': [-0.71]}
+2024-11-05 14:36:19,880 - INFO: Anomaly Detected : {'id': 15, 'data': [[-1.763]], 'current_time': '2024-11-05T09:06:19.805968', 'score': [-0.799]}
+2024-11-05 14:36:20,464 - INFO: Anomaly Detected : {'id': 16, 'data': [[0.663]], 'current_time': '2024-11-05T09:06:20.391880', 'score': [-0.799]}
+2024-11-05 14:36:22,221 - INFO: Anomaly Detected : {'id': 19, 'data': [[-3.774]], 'current_time': '2024-11-05T09:06:22.135844', 'score': [-0.799]}
+2024-11-05 14:36:22,803 - INFO: Anomaly Detected : {'id': 20, 'data': [[-2.542]], 'current_time': '2024-11-05T09:06:22.727760', 'score': [-0.799]}
+2024-11-05 14:36:23,389 - INFO: Anomaly Detected : {'id': 21, 'data': [[-1.932]], 'current_time': '2024-11-05T09:06:23.305565', 'score': [-0.799]}
+2024-11-05 14:36:23,981 - INFO: Anomaly Detected : {'id': 22, 'data': [[-2.286]], 'current_time': '2024-11-05T09:06:23.900202', 'score': [-0.799]}
+2024-11-05 14:36:25,160 - INFO: Anomaly Detected : {'id': 24, 'data': [[-0.233]], 'current_time': '2024-11-05T09:06:25.069973', 'score': [-0.799]}
+2024-11-05 14:36:26,336 - INFO: Anomaly Detected : {'id': 26, 'data': [[-1.917]], 'current_time': '2024-11-05T09:06:26.252699', 'score': [-0.799]}
+2024-11-05 14:36:26,930 - INFO: Anomaly Detected : {'id': 27, 'data': [[-1.932]], 'current_time': '2024-11-05T09:06:26.845569', 'score': [-0.799]}
+2024-11-05 14:36:27,523 - INFO: Anomaly Detected : {'id': 28, 'data': [[0.128]], 'current_time': '2024-11-05T09:06:27.434981', 'score': [-0.799]}
+2024-11-05 14:36:28,000 - INFO: Anomaly Detected : {'id': 29, 'data': [[-1.936]], 'current_time': '2024-11-05T09:06:27.791749', 'score': [-0.799]}
+2024-11-05 14:36:28,634 - INFO: Anomaly Detected : {'id': 30, 'data': [[-2.068]], 'current_time': '2024-11-05T09:06:28.527837', 'score': [-0.799]}
+2024-11-05 14:37:56,523 - INFO: Anomaly Detected: {'id': 3, 'data': [[0.233]], 'current_time': '2024-11-05T09:07:56.470444', 'score': [-0.799]}
+2024-11-05 14:37:58,737 - INFO: Anomaly Detected: {'id': 7, 'data': [[-2.399]], 'current_time': '2024-11-05T09:07:58.684104', 'score': [-0.799]}
+2024-11-05 14:37:59,300 - INFO: Anomaly Detected: {'id': 8, 'data': [[-1.647]], 'current_time': '2024-11-05T09:07:59.244176', 'score': [-0.799]}
+2024-11-05 14:38:03,214 - INFO: Anomaly Detected: {'id': 15, 'data': [[-1.67]], 'current_time': '2024-11-05T09:08:03.153376', 'score': [-0.799]}
+2024-11-05 14:38:03,776 - INFO: Anomaly Detected: {'id': 16, 'data': [[-1.977]], 'current_time': '2024-11-05T09:08:03.717518', 'score': [-0.799]}
+2024-11-05 14:38:04,355 - INFO: Anomaly Detected: {'id': 17, 'data': [[-2.179]], 'current_time': '2024-11-05T09:08:04.292502', 'score': [-0.799]}
+2024-11-05 14:38:05,496 - INFO: Anomaly Detected: {'id': 19, 'data': [[-1.976]], 'current_time': '2024-11-05T09:08:05.431038', 'score': [-0.799]}
+2024-11-05 14:38:06,075 - INFO: Anomaly Detected: {'id': 20, 'data': [[3.705]], 'current_time': '2024-11-05T09:08:06.008233', 'score': [-0.782]}
+2024-11-05 14:38:06,655 - INFO: Anomaly Detected: {'id': 21, 'data': [[-2.083]], 'current_time': '2024-11-05T09:08:06.585541', 'score': [-0.799]}
+2024-11-05 14:38:07,236 - INFO: Anomaly Detected: {'id': 22, 'data': [[-1.917]], 'current_time': '2024-11-05T09:08:07.167041', 'score': [-0.799]}
+2024-11-05 14:38:10,705 - INFO: Anomaly Detected: {'id': 28, 'data': [[-1.803]], 'current_time': '2024-11-05T09:08:10.631186', 'score': [-0.799]}
+2024-11-05 14:38:11,298 - INFO: Anomaly Detected: {'id': 29, 'data': [[-1.339]], 'current_time': '2024-11-05T09:08:11.221373', 'score': [-0.799]}
+2024-11-05 14:38:11,894 - INFO: Anomaly Detected: {'id': 30, 'data': [[-2.175]], 'current_time': '2024-11-05T09:08:11.814003', 'score': [-0.799]}
+2024-11-05 14:38:12,484 - INFO: Anomaly Detected: {'id': 31, 'data': [[-1.787]], 'current_time': '2024-11-05T09:08:12.404296', 'score': [-0.799]}
+2024-11-05 14:38:13,704 - INFO: Anomaly Detected: {'id': 33, 'data': [[-2.443]], 'current_time': '2024-11-05T09:08:13.618798', 'score': [-0.799]}
+2024-11-05 14:38:16,060 - INFO: Anomaly Detected: {'id': 37, 'data': [[-1.946]], 'current_time': '2024-11-05T09:08:15.971390', 'score': [-0.799]}
+2024-11-05 14:38:16,651 - INFO: Anomaly Detected: {'id': 38, 'data': [[-2.73]], 'current_time': '2024-11-05T09:08:16.565610', 'score': [-0.799]}
+2024-11-05 14:38:23,101 - INFO: Anomaly Detected: {'id': 39, 'data': [[-2.014]], 'current_time': '2024-11-05T09:08:22.940447', 'score': [-0.799]}
+2024-11-05 14:38:23,711 - INFO: Anomaly Detected: {'id': 40, 'data': [[-1.651]], 'current_time': '2024-11-05T09:08:23.621742', 'score': [-0.799]}
+2024-11-05 14:38:25,494 - INFO: Anomaly Detected: {'id': 43, 'data': [[-1.918]], 'current_time': '2024-11-05T09:08:25.392308', 'score': [-0.799]}
+2024-11-05 14:38:28,805 - INFO: Anomaly Detected: {'id': 45, 'data': [[-1.643]], 'current_time': '2024-11-05T09:08:28.644456', 'score': [-0.799]}
+2024-11-05 14:41:03,333 - INFO: Anomaly Detected: {'id': 0, 'data': [[0.62]], 'current_time': '2024-11-05T09:11:03.260617', 'score': [-0.799]}
+2024-11-05 14:41:03,898 - INFO: Anomaly Detected: {'id': 1, 'data': [[-0.623]], 'current_time': '2024-11-05T09:11:03.841816', 'score': [-0.799]}
+2024-11-05 14:41:04,457 - INFO: Anomaly Detected: {'id': 2, 'data': [[-2.489]], 'current_time': '2024-11-05T09:11:04.400830', 'score': [-0.799]}
+2024-11-05 14:41:05,569 - INFO: Anomaly Detected: {'id': 4, 'data': [[-2.546]], 'current_time': '2024-11-05T09:11:05.514132', 'score': [-0.799]}
+2024-11-05 14:41:06,129 - INFO: Anomaly Detected: {'id': 5, 'data': [[-1.212]], 'current_time': '2024-11-05T09:11:06.072400', 'score': [-0.799]}
+2024-11-05 14:41:07,261 - INFO: Anomaly Detected: {'id': 7, 'data': [[0.365]], 'current_time': '2024-11-05T09:11:07.201240', 'score': [-0.799]}
+2024-11-05 14:41:07,830 - INFO: Anomaly Detected: {'id': 8, 'data': [[-2.259]], 'current_time': '2024-11-05T09:11:07.764826', 'score': [-0.799]}
+2024-11-05 14:41:09,525 - INFO: Anomaly Detected: {'id': 11, 'data': [[-2.346]], 'current_time': '2024-11-05T09:11:09.463356', 'score': [-0.799]}
+2024-11-05 14:41:10,094 - INFO: Anomaly Detected: {'id': 12, 'data': [[-3.284]], 'current_time': '2024-11-05T09:11:10.028794', 'score': [-0.799]}
+2024-11-05 14:41:14,125 - INFO: Anomaly Detected: {'id': 19, 'data': [[-2.178]], 'current_time': '2024-11-05T09:11:14.049125', 'score': [-0.799]}
+2024-11-05 14:41:14,702 - INFO: Anomaly Detected: {'id': 20, 'data': [[-1.982]], 'current_time': '2024-11-05T09:11:14.627835', 'score': [-0.799]}
+2024-11-05 14:41:15,292 - INFO: Anomaly Detected: {'id': 21, 'data': [[-1.767]], 'current_time': '2024-11-05T09:11:15.217212', 'score': [-0.799]}
+2024-11-05 14:41:16,154 - INFO: Anomaly Detected: {'id': 22, 'data': [[-0.99]], 'current_time': '2024-11-05T09:11:16.009776', 'score': [-0.799]}
+2024-11-05 14:41:16,748 - INFO: Anomaly Detected: {'id': 23, 'data': [[-1.357]], 'current_time': '2024-11-05T09:11:16.677682', 'score': [-0.799]}
+2024-11-05 14:41:18,373 - INFO: Anomaly Detected: {'id': 26, 'data': [[-2.634]], 'current_time': '2024-11-05T09:11:18.178205', 'score': [-0.799]}
+2024-11-05 14:41:19,549 - INFO: Anomaly Detected: {'id': 28, 'data': [[-1.856]], 'current_time': '2024-11-05T09:11:19.472256', 'score': [-0.799]}
+2024-11-05 14:41:20,140 - INFO: Anomaly Detected: {'id': 29, 'data': [[-2.005]], 'current_time': '2024-11-05T09:11:20.066633', 'score': [-0.799]}
+2024-11-05 14:41:20,724 - INFO: Anomaly Detected: {'id': 30, 'data': [[-2.646]], 'current_time': '2024-11-05T09:11:20.641272', 'score': [-0.799]}
+2024-11-05 14:41:21,311 - INFO: Anomaly Detected: {'id': 31, 'data': [[-2.317]], 'current_time': '2024-11-05T09:11:21.233882', 'score': [-0.799]}
+2024-11-05 14:41:21,657 - INFO: Anomaly Detected: {'id': 32, 'data': [[-1.541]], 'current_time': '2024-11-05T09:11:21.507200', 'score': [-0.799]}
+2024-11-05 14:41:22,837 - INFO: Anomaly Detected: {'id': 34, 'data': [[-1.499]], 'current_time': '2024-11-05T09:11:22.763820', 'score': [-0.799]}
+2024-11-05 14:41:23,417 - INFO: Anomaly Detected: {'id': 35, 'data': [[-2.242]], 'current_time': '2024-11-05T09:11:23.339127', 'score': [-0.799]}
+2024-11-05 14:43:18,024 - INFO: Anomaly Detected: {'id': 0, 'data': [[-2.202]], 'current_time': '2024-11-05T09:13:17.942477', 'score': [-0.799]}
+2024-11-05 14:43:20,250 - INFO: Anomaly Detected: {'id': 4, 'data': [[-1.551]], 'current_time': '2024-11-05T09:13:20.198287', 'score': [-0.799]}
+2024-11-05 14:43:24,171 - INFO: Anomaly Detected: {'id': 11, 'data': [[-2.292]], 'current_time': '2024-11-05T09:13:24.116623', 'score': [-0.799]}
+2024-11-05 14:43:25,298 - INFO: Anomaly Detected: {'id': 13, 'data': [[-1.863]], 'current_time': '2024-11-05T09:13:25.241358', 'score': [-0.799]}
+2024-11-05 14:43:27,552 - INFO: Anomaly Detected: {'id': 17, 'data': [[-1.582]], 'current_time': '2024-11-05T09:13:27.492108', 'score': [-0.799]}
+2024-11-05 14:43:29,242 - INFO: Anomaly Detected: {'id': 20, 'data': [[2.94]], 'current_time': '2024-11-05T09:13:29.177714', 'score': [-0.732]}
+2024-11-05 14:43:30,384 - INFO: Anomaly Detected: {'id': 22, 'data': [[-1.066]], 'current_time': '2024-11-05T09:13:30.321643', 'score': [-0.799]}
+2024-11-05 14:43:30,964 - INFO: Anomaly Detected: {'id': 23, 'data': [[-1.773]], 'current_time': '2024-11-05T09:13:30.897676', 'score': [-0.799]}
+2024-11-05 14:43:31,541 - INFO: Anomaly Detected: {'id': 24, 'data': [[-1.779]], 'current_time': '2024-11-05T09:13:31.473335', 'score': [-0.799]}
+2024-11-05 14:43:32,121 - INFO: Anomaly Detected: {'id': 25, 'data': [[-1.691]], 'current_time': '2024-11-05T09:13:32.051272', 'score': [-0.799]}
+2024-11-05 14:43:32,699 - INFO: Anomaly Detected: {'id': 26, 'data': [[-2.119]], 'current_time': '2024-11-05T09:13:32.627368', 'score': [-0.799]}
+2024-11-05 14:43:33,283 - INFO: Anomaly Detected: {'id': 27, 'data': [[-2.457]], 'current_time': '2024-11-05T09:13:33.207077', 'score': [-0.799]}
+2024-11-05 14:43:33,881 - INFO: Anomaly Detected: {'id': 28, 'data': [[-1.678]], 'current_time': '2024-11-05T09:13:33.801197', 'score': [-0.799]}
+2024-11-05 14:43:36,203 - INFO: Anomaly Detected: {'id': 32, 'data': [[-1.419]], 'current_time': '2024-11-05T09:13:36.123905', 'score': [-0.799]}
+2024-11-05 14:43:38,580 - INFO: Anomaly Detected: {'id': 36, 'data': [[-2.217]], 'current_time': '2024-11-05T09:13:38.497743', 'score': [-0.799]}
+2024-11-05 14:43:39,179 - INFO: Anomaly Detected: {'id': 37, 'data': [[-2.145]], 'current_time': '2024-11-05T09:13:39.091178', 'score': [-0.799]}
+2024-11-05 14:43:40,957 - INFO: Anomaly Detected: {'id': 40, 'data': [[-1.048]], 'current_time': '2024-11-05T09:13:40.870894', 'score': [-0.799]}
+2024-11-05 14:43:41,557 - INFO: Anomaly Detected: {'id': 41, 'data': [[-1.743]], 'current_time': '2024-11-05T09:13:41.464949', 'score': [-0.799]}
+2024-11-05 14:43:42,174 - INFO: Anomaly Detected: {'id': 42, 'data': [[-1.421]], 'current_time': '2024-11-05T09:13:42.072899', 'score': [-0.799]}
+2024-11-05 14:43:42,783 - INFO: Anomaly Detected: {'id': 43, 'data': [[-2.12]], 'current_time': '2024-11-05T09:13:42.683569', 'score': [-0.799]}
+2024-11-05 14:50:15,256 - INFO: Anomaly Detected: {'id': 4, 'data': [[-2.172]], 'current_time': '2024-11-05T09:20:15.205557', 'score': [-0.799]}
+2024-11-05 14:50:15,823 - INFO: Anomaly Detected: {'id': 5, 'data': [[-2.367]], 'current_time': '2024-11-05T09:20:15.770223', 'score': [-0.799]}
+2024-11-05 14:50:16,385 - INFO: Anomaly Detected: {'id': 6, 'data': [[-1.779]], 'current_time': '2024-11-05T09:20:16.329841', 'score': [-0.799]}
+2024-11-05 14:50:17,503 - INFO: Anomaly Detected: {'id': 8, 'data': [[-1.747]], 'current_time': '2024-11-05T09:20:17.445373', 'score': [-0.799]}
+2024-11-05 14:51:57,486 - INFO: Anomaly Detected: {'id': 0, 'data': [[-1.601]], 'current_time': '2024-11-05T09:21:57.417377', 'score': [-0.799]}
+2024-11-05 14:51:58,059 - INFO: Anomaly Detected: {'id': 1, 'data': [[-1.893]], 'current_time': '2024-11-05T09:21:58.003797', 'score': [-0.799]}
+2024-11-05 14:51:58,619 - INFO: Anomaly Detected: {'id': 2, 'data': [[-2.338]], 'current_time': '2024-11-05T09:21:58.561114', 'score': [-0.799]}
+2024-11-05 14:52:02,534 - INFO: Anomaly Detected: {'id': 9, 'data': [[-1.91]], 'current_time': '2024-11-05T09:22:02.472999', 'score': [-0.799]}
+2024-11-05 14:52:03,104 - INFO: Anomaly Detected: {'id': 10, 'data': [[-2.253]], 'current_time': '2024-11-05T09:22:03.046928', 'score': [-0.799]}
+2024-11-05 14:54:36,915 - INFO: Anomaly Detected: {'id': 0, 'data': [[3.545]], 'current_time': '2024-11-05T09:24:36.842994', 'score': [-0.782]}
+2024-11-05 14:54:37,485 - INFO: Anomaly Detected: {'id': 1, 'data': [[-1.666]], 'current_time': '2024-11-05T09:24:37.429940', 'score': [-0.799]}
+2024-11-05 14:54:38,596 - INFO: Anomaly Detected: {'id': 3, 'data': [[-1.956]], 'current_time': '2024-11-05T09:24:38.541304', 'score': [-0.799]}
+2024-11-05 14:54:39,155 - INFO: Anomaly Detected: {'id': 4, 'data': [[-2.568]], 'current_time': '2024-11-05T09:24:39.099726', 'score': [-0.799]}
+2024-11-05 14:54:40,267 - INFO: Anomaly Detected: {'id': 6, 'data': [[-1.976]], 'current_time': '2024-11-05T09:24:40.208584', 'score': [-0.799]}
+2024-11-05 14:54:41,396 - INFO: Anomaly Detected: {'id': 8, 'data': [[-2.084]], 'current_time': '2024-11-05T09:24:41.334218', 'score': [-0.799]}
+2024-11-05 14:54:43,660 - INFO: Anomaly Detected: {'id': 12, 'data': [[-2.661]], 'current_time': '2024-11-05T09:24:43.596708', 'score': [-0.799]}
+2024-11-05 14:54:45,361 - INFO: Anomaly Detected: {'id': 15, 'data': [[-2.365]], 'current_time': '2024-11-05T09:24:45.296021', 'score': [-0.799]}
+2024-11-05 14:54:46,503 - INFO: Anomaly Detected: {'id': 17, 'data': [[-2.033]], 'current_time': '2024-11-05T09:24:46.435297', 'score': [-0.799]}
+2024-11-05 14:54:48,216 - INFO: Anomaly Detected: {'id': 20, 'data': [[-2.155]], 'current_time': '2024-11-05T09:24:48.146356', 'score': [-0.799]}
+2024-11-05 14:54:49,365 - INFO: Anomaly Detected: {'id': 22, 'data': [[-1.906]], 'current_time': '2024-11-05T09:24:49.291945', 'score': [-0.799]}
+2024-11-05 14:54:50,511 - INFO: Anomaly Detected: {'id': 24, 'data': [[-1.45]], 'current_time': '2024-11-05T09:24:50.437878', 'score': [-0.799]}
+2024-11-05 14:54:51,102 - INFO: Anomaly Detected: {'id': 25, 'data': [[-2.34]], 'current_time': '2024-11-05T09:24:51.027655', 'score': [-0.799]}
+2024-11-05 14:54:51,694 - INFO: Anomaly Detected: {'id': 26, 'data': [[-2.349]], 'current_time': '2024-11-05T09:24:51.617511', 'score': [-0.799]}
+2024-11-05 14:54:52,294 - INFO: Anomaly Detected: {'id': 27, 'data': [[-1.9]], 'current_time': '2024-11-05T09:24:52.207912', 'score': [-0.799]}
+2024-11-05 14:54:52,880 - INFO: Anomaly Detected: {'id': 28, 'data': [[0.175]], 'current_time': '2024-11-05T09:24:52.798156', 'score': [-0.799]}
+2024-11-05 14:54:53,480 - INFO: Anomaly Detected: {'id': 29, 'data': [[0.612]], 'current_time': '2024-11-05T09:24:53.395026', 'score': [-0.799]}
+2024-11-05 14:54:54,079 - INFO: Anomaly Detected: {'id': 30, 'data': [[-2.087]], 'current_time': '2024-11-05T09:24:53.992915', 'score': [-0.799]}
+2024-11-05 14:54:55,212 - INFO: Anomaly Detected: {'id': 32, 'data': [[-1.73]], 'current_time': '2024-11-05T09:24:55.010347', 'score': [-0.799]}
+2024-11-05 14:54:56,423 - INFO: Anomaly Detected: {'id': 34, 'data': [[-2.093]], 'current_time': '2024-11-05T09:24:56.329996', 'score': [-0.799]}
+2024-11-05 14:55:05,900 - INFO: Anomaly Detected: {'id': 1, 'data': [[-1.91]], 'current_time': '2024-11-05T09:25:05.844094', 'score': [-0.799]}
+2024-11-05 14:55:06,459 - INFO: Anomaly Detected: {'id': 2, 'data': [[-2.073]], 'current_time': '2024-11-05T09:25:06.404366', 'score': [-0.799]}
+2024-11-05 14:55:09,825 - INFO: Anomaly Detected: {'id': 8, 'data': [[-1.851]], 'current_time': '2024-11-05T09:25:09.767899', 'score': [-0.799]}
+2024-11-05 14:55:10,387 - INFO: Anomaly Detected: {'id': 9, 'data': [[-1.786]], 'current_time': '2024-11-05T09:25:10.330808', 'score': [-0.799]}
+2024-11-05 14:55:10,954 - INFO: Anomaly Detected: {'id': 10, 'data': [[-2.3]], 'current_time': '2024-11-05T09:25:10.889283', 'score': [-0.799]}
+2024-11-05 14:55:55,446 - INFO: Anomaly Detected: {'id': 0, 'data': [[-0.576]], 'current_time': '2024-11-05T09:25:55.373662', 'score': [-0.799]}
+2024-11-05 14:55:56,564 - INFO: Anomaly Detected: {'id': 2, 'data': [[-2.121]], 'current_time': '2024-11-05T09:25:56.511231', 'score': [-0.799]}
+2024-11-05 14:55:57,124 - INFO: Anomaly Detected: {'id': 3, 'data': [[-2.476]], 'current_time': '2024-11-05T09:25:57.069650', 'score': [-0.799]}
+2024-11-05 14:55:58,244 - INFO: Anomaly Detected: {'id': 5, 'data': [[0.497]], 'current_time': '2024-11-05T09:25:58.187615', 'score': [-0.799]}
+2024-11-05 14:55:58,816 - INFO: Anomaly Detected: {'id': 6, 'data': [[-1.573]], 'current_time': '2024-11-05T09:25:58.755107', 'score': [-0.799]}
+2024-11-05 14:55:59,380 - INFO: Anomaly Detected: {'id': 7, 'data': [[-2.338]], 'current_time': '2024-11-05T09:25:59.318862', 'score': [-0.799]}
+2024-11-05 14:55:59,962 - INFO: Anomaly Detected: {'id': 8, 'data': [[-3.007]], 'current_time': '2024-11-05T09:25:59.896172', 'score': [-0.799]}
+2024-11-05 14:56:01,105 - INFO: Anomaly Detected: {'id': 10, 'data': [[-2.356]], 'current_time': '2024-11-05T09:26:01.037666', 'score': [-0.799]}
+2024-11-05 14:56:01,678 - INFO: Anomaly Detected: {'id': 11, 'data': [[-1.883]], 'current_time': '2024-11-05T09:26:01.611495', 'score': [-0.799]}
+2024-11-05 14:56:02,260 - INFO: Anomaly Detected: {'id': 12, 'data': [[-2.512]], 'current_time': '2024-11-05T09:26:02.191684', 'score': [-0.799]}
+2024-11-05 14:56:02,846 - INFO: Anomaly Detected: {'id': 13, 'data': [[-2.109]], 'current_time': '2024-11-05T09:26:02.771202', 'score': [-0.799]}
+2024-11-05 14:56:03,997 - INFO: Anomaly Detected: {'id': 15, 'data': [[-1.829]], 'current_time': '2024-11-05T09:26:03.921992', 'score': [-0.799]}
+2024-11-05 14:56:04,592 - INFO: Anomaly Detected: {'id': 16, 'data': [[-1.491]], 'current_time': '2024-11-05T09:26:04.512295', 'score': [-0.799]}
+2024-11-05 14:56:05,183 - INFO: Anomaly Detected: {'id': 17, 'data': [[0.187]], 'current_time': '2024-11-05T09:26:05.102636', 'score': [-0.799]}
+2024-11-05 14:56:05,772 - INFO: Anomaly Detected: {'id': 18, 'data': [[3.607]], 'current_time': '2024-11-05T09:26:05.693646', 'score': [-0.782]}
+2024-11-05 14:56:07,545 - INFO: Anomaly Detected: {'id': 21, 'data': [[-2.384]], 'current_time': '2024-11-05T09:26:07.462564', 'score': [-0.799]}
+2024-11-05 14:56:08,143 - INFO: Anomaly Detected: {'id': 22, 'data': [[1.274]], 'current_time': '2024-11-05T09:26:08.060928', 'score': [-0.687]}
+2024-11-05 14:56:09,318 - INFO: Anomaly Detected: {'id': 24, 'data': [[-1.577]], 'current_time': '2024-11-05T09:26:09.234199', 'score': [-0.799]}
+2024-11-05 14:56:09,917 - INFO: Anomaly Detected: {'id': 25, 'data': [[-2.411]], 'current_time': '2024-11-05T09:26:09.827436', 'score': [-0.799]}
+2024-11-05 14:56:10,514 - INFO: Anomaly Detected: {'id': 26, 'data': [[3.32]], 'current_time': '2024-11-05T09:26:10.426994', 'score': [-0.782]}
+2024-11-05 14:56:11,125 - INFO: Anomaly Detected: {'id': 27, 'data': [[-2.073]], 'current_time': '2024-11-05T09:26:11.017356', 'score': [-0.799]}
+2024-11-05 14:56:11,750 - INFO: Anomaly Detected: {'id': 28, 'data': [[-1.633]], 'current_time': '2024-11-05T09:26:11.640783', 'score': [-0.799]}
+2024-11-05 14:56:12,366 - INFO: Anomaly Detected: {'id': 29, 'data': [[-2.107]], 'current_time': '2024-11-05T09:26:12.266196', 'score': [-0.799]}
+2024-11-05 14:56:14,174 - INFO: Anomaly Detected: {'id': 32, 'data': [[-2.103]], 'current_time': '2024-11-05T09:26:14.075221', 'score': [-0.799]}
+2024-11-05 14:56:15,468 - INFO: Anomaly Detected: {'id': 34, 'data': [[0.622]], 'current_time': '2024-11-05T09:26:15.362921', 'score': [-0.799]}
+2024-11-05 14:56:16,080 - INFO: Anomaly Detected: {'id': 35, 'data': [[-1.803]], 'current_time': '2024-11-05T09:26:15.970862', 'score': [-0.799]}
+2024-11-05 14:56:16,712 - INFO: Anomaly Detected: {'id': 36, 'data': [[-0.396]], 'current_time': '2024-11-05T09:26:16.595557', 'score': [-0.799]}
+2024-11-05 14:56:18,545 - INFO: Anomaly Detected: {'id': 39, 'data': [[-2.072]], 'current_time': '2024-11-05T09:26:18.434841', 'score': [-0.799]}
+2024-11-05 14:56:19,171 - INFO: Anomaly Detected: {'id': 40, 'data': [[-2.384]], 'current_time': '2024-11-05T09:26:19.057756', 'score': [-0.799]}
+2024-11-05 14:56:19,797 - INFO: Anomaly Detected: {'id': 41, 'data': [[-1.838]], 'current_time': '2024-11-05T09:26:19.682129', 'score': [-0.799]}
+2024-11-05 14:56:20,426 - INFO: Anomaly Detected: {'id': 42, 'data': [[-0.442]], 'current_time': '2024-11-05T09:26:20.310306', 'score': [-0.799]}
+2024-11-05 14:56:34,108 - INFO: Anomaly Detected: {'id': 43, 'data': [[3.997]], 'current_time': '2024-11-05T09:26:33.920972', 'score': [-0.782]}
+2024-11-05 14:56:34,747 - INFO: Anomaly Detected: {'id': 44, 'data': [[-1.697]], 'current_time': '2024-11-05T09:26:34.629349', 'score': [-0.799]}
+2024-11-05 14:56:35,361 - INFO: Anomaly Detected: {'id': 45, 'data': [[-1.739]], 'current_time': '2024-11-05T09:26:35.251553', 'score': [-0.799]}
+2024-11-05 14:56:36,593 - INFO: Anomaly Detected: {'id': 47, 'data': [[-2.407]], 'current_time': '2024-11-05T09:26:36.482707', 'score': [-0.799]}
+2024-11-05 14:56:37,220 - INFO: Anomaly Detected: {'id': 48, 'data': [[-1.978]], 'current_time': '2024-11-05T09:26:37.108604', 'score': [-0.799]}
+2024-11-05 14:56:38,477 - INFO: Anomaly Detected: {'id': 50, 'data': [[3.907]], 'current_time': '2024-11-05T09:26:38.354013', 'score': [-0.782]}
+2024-11-05 14:56:39,729 - INFO: Anomaly Detected: {'id': 52, 'data': [[-1.977]], 'current_time': '2024-11-05T09:26:39.612451', 'score': [-0.799]}
+2024-11-05 14:56:40,357 - INFO: Anomaly Detected: {'id': 53, 'data': [[-1.661]], 'current_time': '2024-11-05T09:26:40.238686', 'score': [-0.799]}
+2024-11-05 14:56:42,007 - INFO: Anomaly Detected: {'id': 56, 'data': [[-1.865]], 'current_time': '2024-11-05T09:26:41.812374', 'score': [-0.799]}
+2024-11-05 14:56:42,647 - INFO: Anomaly Detected: {'id': 57, 'data': [[-1.574]], 'current_time': '2024-11-05T09:26:42.529337', 'score': [-0.799]}
